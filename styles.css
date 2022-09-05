@@ -14,7 +14,7 @@
 
 .container{
     width: 70%;
-    height: 75vh;
+    height: 80vh;
     display: grid;
     grid-template-areas: 
     "sd suv lux"
